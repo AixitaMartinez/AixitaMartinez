@@ -1,5 +1,5 @@
 # Hi there 👋 💗
-##I'm Aixa 
+## I'm Aixa 
 <!--
 
 - 🔭 I’m currently working on ...
